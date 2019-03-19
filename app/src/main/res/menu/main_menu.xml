@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/back_camera" android:title="Back Camera" android:onClick="openBackCamera" />
+    <item android:id="@+id/front_camera"
+        android:title="Front Camera"
+
+        android:onClick="openFrontCamera" />
+
+    <item android:id="@+id/captue_photo"
+        android:title="Front Camera"
+
+        android:onClick="takePhoto" />
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BarcodeApp</string>
+    <string name="cannot_start_previeww">Error occured while starting the camera View.</string>
+    <string name="Capture">Cpature</string>
+    <string name="zoom">Zoom</string>
+    <string name="Select_Size">Select Size</string>
+    <string name="bacode_could_not_be_detected_error_msg">Could not detect Barcode</string>
+    <string name="save_barcode_img_msg">Do you want to save the image?</string>
+    <string name="dont_save">No</string>
+    <string name="save_img">Save Image</string>
+    <string name="save_image_title">Save scanned Image?</string>
+    <string name="scanning_img_progress_title">Scanning, please wait..</string>
+    <string name="barcode_not_found">Oops! Could not detect barcode, Please try again. Make Sure the camera orientation and focus is correct. If you still face issues, try downloading the image first and scan again.</string>
+    <string name="image_data_not_found">Image Not Found</string>
+</resources>
